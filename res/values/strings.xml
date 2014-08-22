@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DialogThem</string>
+    <string name="action_settings">Settings</string>
+    <string name="iv_image">Image</string>
+    <string name="btn_finish">Finish</string>
+
+</resources>
